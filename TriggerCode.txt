@@ -1,0 +1,2 @@
+Trigger TestTrigger on Account (before insert,before update){
+}
